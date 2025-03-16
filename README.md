@@ -1,5 +1,9 @@
 # Google Indexing Script
 
+<div align="center">
+  <a href="README.md">English</a> | <a href="README_zh.md">中文</a>
+</div>
+
 Use this script to get your entire site indexed on Google in less than 48 hours. No tricks, no hacks, just a simple script and a Google API.
 
 > [!IMPORTANT]
